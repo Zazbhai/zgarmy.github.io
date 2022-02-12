@@ -1,0 +1,25 @@
+body{
+	text-align: center;
+	background: url(https://i2.wp.com/freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/pop/053.jpg);
+
+}
+h3{
+	color: #fdc500;
+	    font-size: 3rem;
+	    background-color: #fff;
+	    font-weight: 600;
+	    border-radius: 3.5rem;
+	    
+}
+button{
+	background-color: #d81159;
+    color: #fff;
+    border-radius: 2.5rem;
+    padding: 1.5rem 2.5rem;
+    font-size: 8.5em;
+    font-weight: 600;
+    border: green;
+    cursor: pointer;
+    font-family: arial black;
+    font-size: 1.5rem;
+}
